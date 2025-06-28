@@ -1,11 +1,11 @@
 {
-   "splash_inter":"0",
+   "splash_inter":"1",
    "onewebify":"https://65.mark.qureka.com/intro/question",
    "link_redirect":"0",
    "livetv":"https://streams.stream2watch.com/",
    "splash_redirect":"0",
    "adposition":"0",
-   "admob_showAdStatus":"0",
+   "admob_showAdStatus":"1",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
    "Admob_Banner":"/6499/example/banner",
    "Admob_Interstitial":"/6499/example/interstitial",
