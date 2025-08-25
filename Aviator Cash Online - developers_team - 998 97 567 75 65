@@ -1,5 +1,5 @@
 {
-   "splash_inter":"0",
+   "splash_inter":"1",
    "onewebify":"https://65.mark.qureka.com/intro/question",
    "link_redirect":"0",
    "livetv":"https://streams.stream2watch.com/",
